@@ -42,36 +42,6 @@
                         Menus
                       </a>
                       <!-- Menu dropdown to food and drink menus-->
-                      <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="{% url 'food' %}">Food</a></li>
-                        <li><a class="dropdown-item" href="{% url 'drink' %}">Drinks</a></li>
-                      </ul>
-                    </div>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'blog' %}">Blog</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'reservations' %}">Book</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'contact' %}">Contact Us</a>
-                  </li>
-                  {% if user.is_authenticated %}
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'user_booking' %}">My Bookings</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'user_logout' %}">Logout</a>
-                  </li>
-                  {% else %}
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'user_register' %}">Register</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="{% url 'user_login' %}">Login</a>
-                  </li>
-                  {% endif %}
                 </ul>
               </div>
             </div>
