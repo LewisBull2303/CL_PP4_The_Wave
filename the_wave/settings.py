@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     "crispy_bootstrap5",
     'rangefilter',
-    'bar_and_grill',
+    'menus',
     'bookings',
     'home',
     'blog',
