@@ -79,10 +79,10 @@ class Confirmed(generic.DetailView):
     """
     This view will display confirmation on a successful booking
     """
-    template_name = 'bookings/confirmed.html'
+    template_name = 'bookings/confirmed_booking.html'
 
     def get(self, request):
-        return render(request, 'bookings/confirmed.html')
+        return render(request, 'bookings/confirmed_booking.html')
 
 
 # Display all the bookings the user has active,
