@@ -1,39 +1,50 @@
 # Imports
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # 3rd party:
-from django import forms
-from crispy_forms.helper import FormHelper
-from datetime import datetime
-from phonenumber_field.formfields import PhoneNumberField
+from django.contrib import admin
+from rangefilter.filters import DateRangeFilter
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Internal:
-from .models import Booking
+from .models import Table, Booking
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-# The booking form users will use to book a table
+# Registration of tables to display in the admin panel
+@admin.register(Table)
+class TableAdmin(admin.ModelAdmin):
+    list_display = ('table_id', 'table_name', 'max_seats')
 
 
-class BookingForm(forms.ModelForm):
+# Registration of bookings to display in the admin panel
+@admin.register(Booking)
+class BookingAdmin(admin.ModelAdmin):
+    list_filter = (
+        'user',
+        'name',
+        'email',
+        'phone',
+        'guest_count',
+        'status',
+        'table_id',
+        'requested_date',
+        'requested_time',
+        'created_date'
+        )
+    list_display = (
+        'booking_id',
+        'user',
+        'name',
+        'phone',
+        'guest_count',
+        'status',
+        'table',
+        'requested_date',
+        'requested_time',
+        'created_date')
 
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-        self.helper = FormHelper(self)
+    search_fields = ['guest__name']
+    list_filter = (('requested_date', DateRangeFilter),)
+    actions = ['confirm_bookings']
 
-    requested_date = forms.DateField(
-        widget=forms.DateInput(
-            attrs={'type': 'date', 'min': datetime.now().date()}))
-
-    phone = PhoneNumberField(widget=forms.TextInput(
-        attrs={'placeholder': ('+44123456789')}))
-
-    class Meta:
-        model = Booking
-        fields = (
-            'name',
-            'phone',
-            'email',
-            'guest_count',
-            'table',
-            'requested_date',
-            'requested_time')
+    def confirm_bookings(self, request, queryset):
+        queryset.update(status='Booking Confirmed')

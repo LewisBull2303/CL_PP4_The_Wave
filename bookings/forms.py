@@ -25,7 +25,7 @@ class BookingForm(forms.ModelForm):
             attrs={'type': 'date', 'min': datetime.now().date()}))
 
     phone = PhoneNumberField(widget=forms.TextInput(
-        attrs={'placeholder': ('+44123456789')}))
+        attrs={'placeholder': ('+353123456789')}))
 
     class Meta:
         model = Booking
