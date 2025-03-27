@@ -34,11 +34,11 @@
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'home' %}">Home</a>
+                  <a class="nav-link text-secondary" href="{% url 'home' %}">Home</a>
                 </li>
                 <li class="nav-item">
                   <div class="dropdown">
-                    <a class="nav-link dropdown-toggle text-black" href="#" role="button" data-bs-toggle="dropdown"
+                    <a class="nav-link dropdown-toggle text-secondary" href="#" role="button" data-bs-toggle="dropdown"
                       aria-expanded="false">
                       Menus
                     </a>
@@ -50,27 +50,27 @@
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'blog' %}">Blog</a>
+                  <a class="nav-link text-secondary" href="{% url 'blog' %}">Blog</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'reservations' %}">Book</a>
+                  <a class="nav-link text-secondary" href="{% url 'reservations' %}">Book</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'contact' %}">Contact Us</a>
+                  <a class="nav-link text-secondary" href="{% url 'contact' %}">Contact Us</a>
                 </li>
                 {% if user.is_authenticated %}
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'booking_list' %}">My Bookings</a>
+                  <a class="nav-link text-secondary" href="{% url 'booking_list' %}">My Bookings</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'account_logout' %}">Logout</a>
+                  <a class="nav-link text-secondary" href="{% url 'account_logout' %}">Logout</a>
                 </li>
                 {% else %}
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'account_signup' %}">Register</a>
+                  <a class="nav-link text-secondary" href="{% url 'account_signup' %}">Register</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-black" href="{% url 'account_login' %}">Login</a>
+                  <a class="nav-link text-secondary" href="{% url 'account_login' %}">Login</a>
                 </li>
                 {% endif %}
               </ul>
