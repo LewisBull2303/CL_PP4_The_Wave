@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
 
 a {
-    color: #ffff;
+    color: #333 ;
     text-decoration: none;
 }
 
 a:hover {
-    color: #ced4da;
+    color: #4286f4;
 }
 
 body {
@@ -20,5 +20,30 @@ body {
 }
 
 .booking {
-    color: #ced4da;
+    color: #333;
+}
+
+.card {
+    background-color: rgb(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.booking-success-button {
+    color: green
+}
+
+.map-responsive {
+
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    overflow: hidden;
+}
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
