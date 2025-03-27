@@ -66,7 +66,7 @@ class Reservations(View):
             booking.save()
             messages.success(
                 request, "Booking succesful, awaiting confirmation")
-            return render(request, 'bookings/confirmed.html')
+            return render(request, 'bookings/confirmed_booking.html')
 
         return render(request, 'bookings/reservations.html',
                       {'booking_form': booking_form})
