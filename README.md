@@ -77,3 +77,41 @@ The Wave is a fictisious buissiness beased around high end seafood dining, the s
 23. As an Admin, I can search through bookings and menus to quickly find the information I need.
 24. As an Admin, I can log in to manage and update the site’s backend features.
 25. As an Admin, I can add or remove food and drink items from the menu to update what is available.
+
+## Design
+
+I chose light colors to relate to the area of the restaurant and the feel of the restaurant. This is because the restauratnt is an outside restaurant and is on the seafront and therefore would be bright and clear.
+
+The colors I chose were from different forumsn such as Stack Overflow to see black, white and grey colors that were not to sharp for the website
+
+Color Palette
+
+ - Image Here(Later)
+
+### Fonts
+
+I chose to use Monterrat font from [Google Fonts](https://fonts.google.com/specimen/Montserrat) as it is a common font used by businesses and looks proffessional
+
+### Structure
+
+#### Pages
+
+The site was designed based off of other common layouts for websites, for example the navigation bar is along the top of the page and a hamburger menu will appear on smaller screens.
+The Footer has all of my social media links so that the user can visit any of my social medias if they wish.
+
+The Site has the following pages:
+ - **The homepage** features cards that let users book a table, browse the food menu, or explore the drinks menu.
+ - **The food menu** displays a categorized list of available dishes from the database, sorted into starters, mains, and desserts.
+ - **The drinks menu** showcases the current selection of beverages, organized by type.
+ - **The blog page** presents a paginated list of blog posts by admins or authorized users, with four posts per page.
+ - **The blog details page** allows users to read a selected blog post. Logged-in users can leave comments, which require approval before being published.
+ - **The booking page** enables registered users to reserve a table, specifying the guest count, preferred date, time, and table location.
+ - **The "My Bookings" page** displays all reservations made by the user, with past bookings automatically marked as expired.
+ - **The edit booking** feature allows users to modify the date, time, table, and guest count of an existing reservation.
+ - **The cancel booking** option lets users remove a reservation, which is then deleted from the database.
+ - **The contact page** allows registered users to send a direct message. Alternatively, users can reach out via the provided email, phone number, or physical address.
+ - **The login/logout page** functionality allows users to sign in to make, view, edit, and cancel bookings.
+ - **The registration page** enables new users to sign up and access the booking system.
+
+
+
