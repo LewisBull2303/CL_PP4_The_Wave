@@ -203,3 +203,33 @@ email (ForeignKey)
 phone (ForeignKey)
 body
 
+
+## Technologies Used
+
+### Languages and Frameworks
+
+ - HTML
+ - CSS
+ - JavaScript
+ - Python
+ - Django
+
+### Libraries and Tools
+
+- Google Fonts
+- Bootstrap
+- Heroku Platform
+- jQuery
+- Chrome Dev Tools
+- Font Awesome
+- Git
+- Postgres
+- Am I Responsive
+- Cloudinary
+- GitHub
+- Summernote
+- Balsamiq
+- Favicon.io
+- Validation
+   - 
+   
