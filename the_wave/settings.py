@@ -17,6 +17,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
+X_FRAME_OPTIONS = 'ALLOW-FROM https://ui.dev/amiresponsive'
 
 ALLOWED_HOSTS = ['127.0.0.1', 'cl-pp4-the-wave-76e93eea9754.herokuapp.com']
 
