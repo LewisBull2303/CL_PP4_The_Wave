@@ -237,19 +237,51 @@ body
 
 ### Home Page
 
+- My home page includes a navigation bar, the main body which has a carosel with 3 images, cards to click on for the user to be taken to the booking page, food menu and drinks menu, and a footer with my social medias
+
 ### Logo
+
+- Custom Logo for my business
+- Fully responsive
 
 ### Navigation Bar
 
+- Fullt Responsive NavBar
+- Has a Custom Logo on the left
+- On smaller screens it switches to a hamburger menu
+- Hides the register/Login page if the user is logged in already
+- Displayed Across all of my pages
+
 ### Footer
+
+- Contains all of my social medias as buttons
+- Fully responsive
+- Displayed across all of my pages
 
 ### Register Page
 
+- Allowes users to register a new account
+- Username and password are required for the user to add but the email is optional as indicated by the asterisks (*)
+- Fully Responsive
+
 ### Login Page
+
+- Users can login to their account on this page
+- The username and password need to match to an account on the database
 
 ### Booking Page
 
+- Users can book a table using the online booking form
+- The form takes in the users name, phone number, email, guest count, the table they would like, the date and the time that they would like
+- Users cannot double book at the same time
+- Messages are displayed if the data is not valid
+- Users cannot book before the present day
+
 ### My Bookings Page
+
+- Allows the user to see all of their bookings in a clear layout
+- If any bookings are before the present day the booking will automatically disappear
+- Status for the booking is displayed to let the user know where their booking is at
 
 ### Edit Booking Page
 
