@@ -113,5 +113,93 @@ The Site has the following pages:
  - **The login/logout page** functionality allows users to sign in to make, view, edit, and cancel bookings.
  - **The registration page** enables new users to sign up and access the booking system.
 
+## Database
+The Project was built with Python and the Django framework with a database of a Postgres for the deployed Heroku version(production)
 
+### User Model
+The User Model contains the following:
+
+user_id
+password
+last_login
+is_superuser
+username
+first_name
+last_name
+email
+is_staff
+is_active
+date_joined
+
+### FoodItem Model
+The FoodItem Model contains the following:
+
+food_id
+food_name
+description
+price
+available
+
+### DrinkItem Model
+The DrinkItem Model contains the following:
+
+drink_id
+drink_name
+description
+price
+available
+
+### Table Model
+The Table Model contains the following:
+
+table_id (PrimaryKey)
+table_name
+max_seats
+available
+
+### Booking Model
+The Booking Model contains the following:
+
+booking_id (PrimaryKey)
+created_date
+requested_date
+requested_time
+table (ForeignKey)
+guest (ForeignKey)
+seats
+guest_count
+
+### Post Model
+The Post Model contains the following:
+
+title
+post_id (PrimaryKey)
+author (ForeignKey)
+created_date
+updated_date
+content
+featured_image
+excerpt
+slug
+status
+
+### Comment Model
+The Comment Model contains the following:
+
+post (ForeignKey)
+name
+email
+body
+created_date
+approved
+Meta: created_on
+
+### ContactUs Model
+The ContactUs Model contains the following:
+
+contact_id (PrimaryKey)
+name (ForeignKey)
+email (ForeignKey)
+phone (ForeignKey)
+body
 
