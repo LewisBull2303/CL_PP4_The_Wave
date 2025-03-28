@@ -64,3 +64,16 @@ The Wave is a fictisious buissiness beased around high end seafood dining, the s
 13. As a User, I can receive notifications to confirm whether my booking action was successful.
 14. As a User, I can access the site’s blog to read helpful articles and updates.
 15. As a User, I can view blog posts in a paginated format to make browsing easier.
+
+### Site Owner / Admin / Authorised User
+
+16. As an Admin, I can log in to manage the back end of the site.
+17. As an Admin, I can create, update, and delete items from the food and drink menu to keep our offerings current.
+18. As an Admin, I can manually add bookings for customers who call or email the business.
+19. As a Site Owner, I can ensure the site is fully responsive to provide a seamless experience for customers.
+20. As an Admin, I can filter bookings by date to easily see reservations for any given day.
+21. As an Admin, I can validate data entered on the site to ensure accuracy and prevent errors.
+22. As an Admin, I can accept or reject bookings to avoid overbooking or double bookings.
+23. As an Admin, I can search through bookings and menus to quickly find the information I need.
+24. As an Admin, I can log in to manage and update the site’s backend features.
+25. As an Admin, I can add or remove food and drink items from the menu to update what is available.
