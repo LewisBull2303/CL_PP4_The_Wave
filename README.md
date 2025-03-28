@@ -232,4 +232,37 @@ body
 - Favicon.io
 - Validation
    - 
-   
+
+## Features
+
+### Home Page
+
+### Logo
+
+### Navigation Bar
+
+### Footer
+
+### Register Page
+
+### Login Page
+
+### Booking Page
+
+### My Bookings Page
+
+### Edit Booking Page
+
+### Cancel Booking Page
+
+### Food Menu Page
+
+### Drinks Menu Page
+
+### Blog Page
+
+### Blog Details Page
+
+### Blog Comments
+
+### Contact Us Page
