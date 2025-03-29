@@ -285,16 +285,45 @@ body
 
 ### Edit Booking Page
 
+- Allows the user to edit their bookings
+- The User can edit the name, time and date, email, type of table and phone number
+
 ### Cancel Booking Page
+
+- Allows the user to cancel their booking if they wish
+- When Clicked it will ask the user if they are sure that they would like to cancel
 
 ### Food Menu Page
 
+- Allows the user to see all of the food that is available on the menu
+- Menu is seperated by starters, mains and desserts
+- Items are created on the admin panel, the items need a title, description and a price
+
 ### Drinks Menu Page
+
+- Allows the user to see all of the drinks that are available on the menu
+- Menu is seperated by Wines, Beers and Cocktails
+- Items are created on the admin panel, the items need a title, description and a price
 
 ### Blog Page
 
+- The blog page displays posts made by staff members
+- The page can display 4 posts per page
+- The user can click on each title to open the blog details
+
 ### Blog Details Page
+
+- When clicked opens the blog details
+- Expands with the image at the top and a description/details of the post underneath
+- Registered users only can comment on the blog
 
 ### Blog Comments
 
+- Comments made are set to a pending status to ensure that the admins have control over what is displayed
+- Staff are able to approve or remove comments on the admin panel
+
 ### Contact Us Page
+
+- Users can send a message to the staff from the message box
+- The message has a name, phone number and email of the user submitting the message
+- Underneath the contact page there is a google maps embedded with the address 
