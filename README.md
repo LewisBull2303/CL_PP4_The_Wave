@@ -629,6 +629,83 @@ The following websites/tools were used to test the validation of my code:
 
 </details>
 
+## CSS Validation
+
+The W3C Jigsaw CSS Validation Service
+
+<details>
+ <summary>Styles.css/summary>
+
+![image](https://github.com/user-attachments/assets/ec69ca0e-ac3d-4f7c-b7e3-3befe37adeac)
+
+</details>
+
+## JavaScript Validation
+
+JSHint JS Validation Service
+
+<details>
+ <summary>Script.js/summary>
+
+![image](https://github.com/user-attachments/assets/b53e41de-71f6-4ef4-aea1-ad5dcf4c28ac)
+
+</details>
+
+## PEP8 Validation
+
+PEP8 Validation service was used to check the python code to ensure that it was up to the PEP8 Python standards. Since the online version of PEP8, PEP8online, is down i used Pycodestyle in the Visual studio code terminal:
+
+
+- ## Blog
+<details>
+ <summary>Admin/summary>
+
+![image](https://github.com/user-attachments/assets/5f9783db-0466-4f7f-8cbc-31e3f3bb10e9)
+
+</details>
+
+<details>
+ <summary>Models/summary>
+
+![image](https://github.com/user-attachments/assets/859aab53-342e-4f3c-a6ae-2be1ae9df233)
+
+</details>
+
+<details>
+ <summary>urls/summary>
+
+![image](https://github.com/user-attachments/assets/46c8e87d-a905-4ec1-9973-9456ebd02c2d)
+
+</details>
+
+<details>
+ <summary>views/summary>
+
+![image](https://github.com/user-attachments/assets/ea42bb78-5241-456d-b80e-087fdfceeb04)
+
+</details>
+
+<details>
+ <summary>test_models/summary>
+
+
+
+</details>
+
+<details>
+ <summary>test_views/summary>
+
+
+
+</details>
+
+<details>
+ <summary>test_urls/summary>
+
+
+
+</details>
+
 ## Heroku Deployment
 
 This application has been deployed from Github using Heroku. Here's how:
