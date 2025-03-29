@@ -539,91 +539,91 @@ The following websites/tools were used to test the validation of my code:
 </details>
 
 <details>
- <summary>Register/summary>
+ <summary>Register</summary>
 
 ![image](https://github.com/user-attachments/assets/5f2245bd-b0bd-450b-aae7-6e3043672ffb)
 
 </details>
 
 <details>
- <summary>Register/summary>
+ <summary>Login</summary>
 
 ![image](https://github.com/user-attachments/assets/28c68e90-d630-47c1-946e-f9dca0421bf7)
 
 </details>
 
 <details>
- <summary>Logout/summary>
+ <summary>Logout</summary>
 
 ![image](https://github.com/user-attachments/assets/e6da4c88-303c-4ffd-a02a-a25be5fea995)
 
 </details>
 
 <details>
- <summary>Food Menu/summary>
+ <summary>Food Menu</summary>
 
 ![image](https://github.com/user-attachments/assets/08733e6e-d173-4c1d-a300-f3c49d21350d)
 
 </details>
 
 <details>
- <summary>Drinks Menu/summary>
+ <summary>Drinks Menu</summary>
 
 ![image](https://github.com/user-attachments/assets/12d8cacb-89fb-4fbf-96e6-2d2d35aaf8f0)
 
 </details>
 
 <details>
- <summary>Bookings/summary>
+ <summary>Bookings</summary>
 
 ![image](https://github.com/user-attachments/assets/eda2c660-3b1d-4431-bc80-931ecb14290d)
 
 </details>
 
 <details>
- <summary>Edit Booking/summary>
+ <summary>Edit Booking</summary>
 
 ![image](https://github.com/user-attachments/assets/a18a089b-6c10-4a50-acc6-e0b44415fecc)
 
 </details>
 
 <details>
- <summary>Cancel Booking/summary>
+ <summary>Cancel Booking</summary>
 
 ![image](https://github.com/user-attachments/assets/eca14d63-90f2-4d00-89f1-71c22c51ccd9)
 
 </details>
 
 <details>
- <summary>Confirmed Booking/summary>
+ <summary>Confirmed Booking</summary>
 
 ![image](https://github.com/user-attachments/assets/49cdcb0e-7273-4721-b9cc-eae647913110)
 
 </details>
 
 <details>
- <summary>Blog/summary>
+ <summary>Blog</summary>
 
 ![image](https://github.com/user-attachments/assets/36fb93e2-30ed-48bc-b4e1-73302be3539e)
 
 </details>
 
 <details>
- <summary>Blog Details/summary>
+ <summary>Blog Details</summary>
 
 ![image](https://github.com/user-attachments/assets/b1ad5e4b-9270-4372-ac03-1271aae18513)
 
 </details>
 
 <details>
- <summary>Contact Us/summary>
+ <summary>Contact Us</summary>
 
 ![image](https://github.com/user-attachments/assets/10f24b10-77f6-4a27-a05e-5da856c5f106)
 
 </details>
 
 <details>
- <summary>404s/summary>
+ <summary>404s</summary>
 
 ![image](https://github.com/user-attachments/assets/e0d92175-ab68-4d7b-9622-9ccf8f67cae3)
 
@@ -634,7 +634,7 @@ The following websites/tools were used to test the validation of my code:
 The W3C Jigsaw CSS Validation Service
 
 <details>
- <summary>Styles.css/summary>
+ <summary>Styles.css</summary>
 
 ![image](https://github.com/user-attachments/assets/ec69ca0e-ac3d-4f7c-b7e3-3befe37adeac)
 
@@ -645,7 +645,7 @@ The W3C Jigsaw CSS Validation Service
 JSHint JS Validation Service
 
 <details>
- <summary>Script.js/summary>
+ <summary>Script.js</summary>
 
 ![image](https://github.com/user-attachments/assets/b53e41de-71f6-4ef4-aea1-ad5dcf4c28ac)
 
@@ -657,52 +657,152 @@ PEP8 Validation service was used to check the python code to ensure that it was 
 
 
 - ## Blog
-<details>
- <summary>Admin/summary>
 
-![image](https://github.com/user-attachments/assets/5f9783db-0466-4f7f-8cbc-31e3f3bb10e9)
+<details>
+ <summary>Admin</summary>
+
+![image](https://github.com/user-attachments/assets/a55acc9b-4cd1-4328-bd46-92555b8dfbbe)
 
 </details>
 
 <details>
- <summary>Models/summary>
+ <summary>Models</summary>
 
 ![image](https://github.com/user-attachments/assets/859aab53-342e-4f3c-a6ae-2be1ae9df233)
 
 </details>
 
 <details>
- <summary>urls/summary>
+ <summary>urls</summary>
 
 ![image](https://github.com/user-attachments/assets/46c8e87d-a905-4ec1-9973-9456ebd02c2d)
 
 </details>
 
 <details>
- <summary>views/summary>
+ <summary>views</summary>
 
 ![image](https://github.com/user-attachments/assets/ea42bb78-5241-456d-b80e-087fdfceeb04)
 
 </details>
 
+- ## Menus
+
 <details>
- <summary>test_models/summary>
+ <summary>Admin</summary>
 
-
+![image](https://github.com/user-attachments/assets/68e84061-7212-4f09-a2cd-6c733d96af54)
 
 </details>
 
 <details>
- <summary>test_views/summary>
+ <summary>Models</summary>
 
-
+![image](https://github.com/user-attachments/assets/83f200e7-f11f-4c64-b63c-9e8684587d3b)
 
 </details>
 
 <details>
- <summary>test_urls/summary>
+ <summary>urls</summary>
 
+![image](https://github.com/user-attachments/assets/9a737947-8984-4611-bc44-8386c0e1aad7)
 
+</details>
+
+<details>
+ <summary>views</summary>
+
+![image](https://github.com/user-attachments/assets/a79427bf-0448-4405-845e-2602f14f285f)
+
+</details>
+
+- ## Bookings
+
+<details>
+ <summary>Admin</summary>
+
+![image](https://github.com/user-attachments/assets/8f6e70c5-542e-4612-bbda-c6209192a216)
+
+</details>
+
+<details>
+ <summary>Models</summary>
+
+![image](https://github.com/user-attachments/assets/ba4e5077-7cf2-441a-b63a-a9e1cc670a68)
+
+</details>
+
+<details>
+ <summary>urls</summary>
+
+![image](https://github.com/user-attachments/assets/1de6ab83-3a9c-41de-8d9c-8136a38592b4)
+
+</details>
+
+<details>
+ <summary>views</summary>
+
+![image](https://github.com/user-attachments/assets/dec6aa6b-08b8-4e8a-90f6-d5e3e34f55ae)
+
+</details>
+
+<details>
+ <summary>Forms</summary>
+
+![image](https://github.com/user-attachments/assets/e482cf5e-0fa0-4637-ac87-41ef7813bd34)
+
+</details>
+
+- ## Contact
+
+<details>
+ <summary>Admin</summary>
+
+![image](https://github.com/user-attachments/assets/2499505c-e2da-447c-a05f-91d19cfbe524)
+
+</details>
+
+<details>
+ <summary>Models</summary>
+
+![image](https://github.com/user-attachments/assets/58e908c1-17b3-4fb1-9d9d-86c741e2b62a)
+
+</details>
+
+<details>
+ <summary>urls</summary>
+
+![image](https://github.com/user-attachments/assets/45ac5b25-e927-4f5d-8efa-f4a1eb3bb9c8)
+
+</details>
+
+<details>
+ <summary>views</summary>
+
+![image](https://github.com/user-attachments/assets/c819194e-1354-419e-865c-fcade15e917d)
+
+</details>
+
+<details>
+ <summary>Forms</summary>
+
+![image](https://github.com/user-attachments/assets/28d30586-2ad7-4870-b012-e476ad573d8e)
+
+</details>
+
+- ## Home
+
+<details>
+ <summary>urls</summary>
+
+![image](https://github.com/user-attachments/assets/50a22b49-7058-45f2-ad46-b79f365701ca)
+
+</details>
+
+<details>
+ <summary>views</summary>
+
+![image](https://github.com/user-attachments/assets/0f8d2bf9-3870-4d77-a1b9-07ca09ae03df)
 
 </details>
 
