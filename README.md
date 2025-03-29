@@ -507,3 +507,13 @@ The ContactUs Model contains the following:
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Go to the food or drinks items tabs on the admin page, click on an item|There is a button the admins can toggle to say if an item is available or not|Works as expected|
+
+## Bugs
+
+|Bugs|Fix|
+|---|---|
+|Edit booking page not working correctly|Incorrectly named the edit booking name|
+|The blog details page would not load correctly|Incorrectly named the file so it was going me a 404 error|
+|The styles would not load correctly|The styles were not correctly added to the base.html|
+|While logged in the register and login button would not disappear|Mispelled the if_authenticated so I corrected the spelling and all worked fine|
+|Hamburger menu not appearing when the screen size is smaller|Incorrectly spelt the hamburger menu UNICODE|
