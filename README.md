@@ -327,3 +327,11 @@ The ContactUs Model contains the following:
 - Users can send a message to the staff from the message box
 - The message has a name, phone number and email of the user submitting the message
 - Underneath the contact page there is a google maps embedded with the address 
+
+## Testing
+
+### Manual Testing
+
+|Step|Expected|Result|
+|---|---|---|
+|Click on the home link in the nav bar|The homepage will load|Works as expected|
