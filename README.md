@@ -518,6 +518,117 @@ The ContactUs Model contains the following:
 |While logged in the register and login button would not disappear|Mispelled the if_authenticated so I corrected the spelling and all worked fine|
 |Hamburger menu not appearing when the screen size is smaller|Incorrectly spelt the hamburger menu UNICODE|
 
+## Validation
+
+The following websites/tools were used to test the validation of my code:
+
+- WC3 Validator
+- Jigsaw W3 Validator
+- JShint
+- Pycodestyle(PEP8)
+- Lighthouse
+- Wave Validator
+
+### W3C Markup Validationm
+
+<details>
+ <summary>Home/summary>
+
+![image](https://github.com/user-attachments/assets/a8bb799c-4973-481c-924c-142d3e4cc8b0)
+
+</details>
+
+<details>
+ <summary>Register/summary>
+
+![image](https://github.com/user-attachments/assets/5f2245bd-b0bd-450b-aae7-6e3043672ffb)
+
+</details>
+
+<details>
+ <summary>Register/summary>
+
+![image](https://github.com/user-attachments/assets/28c68e90-d630-47c1-946e-f9dca0421bf7)
+
+</details>
+
+<details>
+ <summary>Logout/summary>
+
+![image](https://github.com/user-attachments/assets/e6da4c88-303c-4ffd-a02a-a25be5fea995)
+
+</details>
+
+<details>
+ <summary>Food Menu/summary>
+
+![image](https://github.com/user-attachments/assets/08733e6e-d173-4c1d-a300-f3c49d21350d)
+
+</details>
+
+<details>
+ <summary>Drinks Menu/summary>
+
+![image](https://github.com/user-attachments/assets/12d8cacb-89fb-4fbf-96e6-2d2d35aaf8f0)
+
+</details>
+
+<details>
+ <summary>Bookings/summary>
+
+![image](https://github.com/user-attachments/assets/eda2c660-3b1d-4431-bc80-931ecb14290d)
+
+</details>
+
+<details>
+ <summary>Edit Booking/summary>
+
+![image](https://github.com/user-attachments/assets/a18a089b-6c10-4a50-acc6-e0b44415fecc)
+
+</details>
+
+<details>
+ <summary>Cancel Booking/summary>
+
+![image](https://github.com/user-attachments/assets/eca14d63-90f2-4d00-89f1-71c22c51ccd9)
+
+</details>
+
+<details>
+ <summary>Confirmed Booking/summary>
+
+![image](https://github.com/user-attachments/assets/49cdcb0e-7273-4721-b9cc-eae647913110)
+
+</details>
+
+<details>
+ <summary>Blog/summary>
+
+![image](https://github.com/user-attachments/assets/36fb93e2-30ed-48bc-b4e1-73302be3539e)
+
+</details>
+
+<details>
+ <summary>Blog Details/summary>
+
+![image](https://github.com/user-attachments/assets/b1ad5e4b-9270-4372-ac03-1271aae18513)
+
+</details>
+
+<details>
+ <summary>Contact Us/summary>
+
+![image](https://github.com/user-attachments/assets/10f24b10-77f6-4a27-a05e-5da856c5f106)
+
+</details>
+
+<details>
+ <summary>404s/summary>
+
+![image](https://github.com/user-attachments/assets/e0d92175-ab68-4d7b-9622-9ccf8f67cae3)
+
+</details>
+
 ## Heroku Deployment
 
 This application has been deployed from Github using Heroku. Here's how:
