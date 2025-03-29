@@ -54,7 +54,7 @@ The Wave is a fictisious buissiness beased around high end seafood dining, the s
 3. As a User, I can cancel my reservation so I can free up the table if my plans change.
 4. As a User, I can view the business hours and contact details to know how to reach them.
 5. As a User, I can book a table by selecting an available date and time.
-6. As a User, I can navigate the website easily using a navbar, footer, and social media icons.
+6. As a User, I can navigate the website easily.
 7. As a User, I can sign in to access booking features and manage my reservations.
 8. As a User, I can check if I am logged in to know whether I can make a reservation or manage an existing one.
 9. As a User, I can browse the food and drink menu to decide what I want before booking a table.
@@ -332,6 +332,154 @@ The ContactUs Model contains the following:
 
 ### Manual Testing
 
-|Step|Expected|Result|
+1. As a User, I can register an account to store my details for faster bookings in the future.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the register link in the nav bar|The register page will load|Works as expected|
+|Fill in the information in the register page|The website will create an account with the information|Works as expected|
+
+2. As a User, I can view my booking details so I can easily check the date and time of my reservation.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the my bookings link in the nav bar|The my bookings page loads with all the users bookings|Works as expected|
+
+3. As a User, I can cancel my reservation so I can free up the table if my plans change.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on My Bookings and click cancel on the booking that needs to be canceled|The cancel booking page will load|Works as expected|
+|Click on yes when asked if sure to cancel the booking|The booking will be cancelled and taken off of the my booking page|Works as expected|
+
+4. As a User, I can view the business hours and contact details to know how to reach them.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the contact us page and scroll down|The times the restaurant is open and the contact details|Works as expected|
+
+5. As a User, I can book a table by selecting an available date and time.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the book link in the nav bar and fill out the information such as date and time|Nav bar works as expected and the booking will be created correctly|Works as expected|
+
+6. As a User, I can navigate the website easily.
+
+|Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the home link in the nav bar|The homepage will load|Works as expected|
+|Click on the menus link in the nav bar anmd select the food menu|Food Menu will load|Works as expected|
+|Click on the menus link in the nav bar and select the drinks menu|Drinks Menu will load|Works as expected|
+|Click on the blog link in the nav bar|The blogs page will load|Works as expected|
+|Click on a blog post on the blog page|The blog details page will load|Works as expected|
+|Click on the book link in the nav bar|The booking page will load|Works as expected|
+|Click on the Contact us link in the nav bar|The contact us page will load|Works as expected|
+|Click on the My bookings link in the nav bar|The My bookings page will load|Works as expected|
+|Click on the register link in the nav bar|The register page will load|Works as expected|
+|Click on the login page in the nav bar|The Login page will load|Works as expected|
+|Click on the Logout page in the nav bar|The logout page will load|Works as expected|
+
+
+7. As a User, I can sign in to access booking features and manage my reservations.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the login link in the nav bar and login with a registered account|If the user has created an account the login will work|Works as expected|
+
+8. As a User, I can check if I am logged in to know whether I can make a reservation or manage an existing one.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the login link in the nav bar, and login|If logged in the login and register button will disapper and the logout button will appear|Works as expected|
+
+9. As a User, I can browse the food and drink menu to decide what I want before booking a table.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the menus link in the nav bar anmd select the food menu|Food Menu will load|Works as expected|
+|Click on the menus link in the nav bar and select the drinks menu|Drinks Menu will load|Works as expected|
+
+10. As a User, I can update my booking to select a new available time if my plans change.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the my bookings link in the nav bar and click the edit button|The edit booking page will open and the user can edit their times or date|Works as expected|
+
+11. As a User, I can not book a past date to ensure that my reservation is valid.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Create a booking and attempt to put the date before the present day|A message will appear telling the user this is an invalid day|Works as expected|
+
+12. As a User, I can not select a time slot that has already been booked to avoid double bookings.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Create a booking with a time and date, then attempt to create another one|An error will pop up letting the user know that they have already booked for this date and time|Works as expected
+
+13. As a User, I can receive notifications to confirm whether my booking action was successful.
+|Step|Expected Outcome|Result|
+|---|---|---|
+
+14. As a User, I can access the site’s blog to read helpful articles and updates.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the blog link in the nav bar|The blogs page will load|Works as expected|
+
+15. As a User, I can view blog posts in a paginated format to make browsing easier.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Click on the blog link in the nav bar|The blogs page will load|Works as expected|
+
+16. As an Admin, I can log in to manage the back end of the site.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Visit the admin page at https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/|Enter the admin credentials and gain access to the backend|Works as expected|
+
+17. As an Admin, I can create, update, and delete items from the food and drink menu to keep our offerings current.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|In the admin page, click on food or drink items and click add item|The admin can create a new food or drink item|Works as expected|
+
+18. As an Admin, I can manually add bookings for customers who call or email the business.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|In the admin page, click on Booking tab and click create booking|The admin can create a new booking for a user with a time date and table|Works as expected|
+
+19. As a Site Owner, I can ensure the site is fully responsive to provide a seamless experience for customers.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Go to the developer tools in google chrome and swap the dimentions to responsive, shrink the screen size and see if all elements are responsive|The webpage will be responsive|Works as expected|
+|Test Screen Size: 200px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 400px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 600px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 800px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 1000px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 1200px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 1400px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 1600px|All elements and webpages are responsive|Works as expected|
+|Test Screen Size: 1800px|All elements and webpages are responsive|Works as expected|
+
+20. As an Admin, I can filter bookings by date to easily see reservations for any given day.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Go to the admin page: https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/ and click on booking, in the right there is a filter|The filter allows the admins to filter by date|Works as expected|
+
+21. As an Admin, I can validate data entered on the site to ensure accuracy and prevent errors.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|From the booking page enter a phone number that is too long or short|Error message will appear|Works as expected|
+|From the booking page enter a date that is already booked|Error message will appear|Works as expected|
+|From the booking page enter a date that is before the current day|Error message will appear|Works as expected|
+|From the booking page leave the phone number blank|Error message will appear|Works as expected|
+
+22. As an Admin, I can accept or reject bookings to avoid overbooking or double bookings.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Go to the booking tab on the admin page, access a booking and change the status|The admin can reject or confirm a booking|Works as expected|
+
+23. As an Admin, I can search through bookings and menus to quickly find the information I need.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Go to the booking tab on the admin page, there are filter to let the admins access information quickly|The admin can filter the bookings|Works as expected|
+|Go to the Food items or drink items tab on the admin page, there are filter and a seach bar to let the admins access information quickly|The admin can filter the bookings|Works as expected|
+
+24. As an Admin, I can log in to manage and update the site’s backend features.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Access the admin page at https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/ and enter the admin credentials|The admin can login to access the sites backend|Works as expected|
+
+25. As an Admin, I can add or remove food and drink items from the menu to update what is available.
+|Step|Expected Outcome|Result|
+|---|---|---|
+|Go to the food or drinks items tabs on the admin page, click on an item|There is a button the admins can toggle to say if an item is available or not|Works as expected|
