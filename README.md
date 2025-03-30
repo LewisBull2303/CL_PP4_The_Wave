@@ -1,4 +1,4 @@
-# The Wave | High-End Seafood with a view
+![image](https://github.com/user-attachments/assets/12bd2e35-0353-4e3e-8e55-f48f6f994b56)# The Wave | High-End Seafood with a view
 
 ![image](https://github.com/user-attachments/assets/20fa747d-653c-47a9-b849-ea847c23a97a)
 
@@ -457,11 +457,26 @@ The ContactUs Model contains the following:
 |Click on the register link in the nav bar|The register page will load|Works as expected|
 |Fill in the information in the register page|The website will create an account with the information|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/0c449b4b-e479-49bf-aed2-0220fe8e95b5)
+
+
+</details>
+
 2. As a User, I can view my booking details so I can easily check the date and time of my reservation.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the my bookings link in the nav bar|The my bookings page loads with all the users bookings|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a68f151d-1460-46fe-9a6a-06e6e09419f8)
+
+</details>
 
 3. As a User, I can cancel my reservation so I can free up the table if my plans change.
 
@@ -470,17 +485,38 @@ The ContactUs Model contains the following:
 |Click on My Bookings and click cancel on the booking that needs to be canceled|The cancel booking page will load|Works as expected|
 |Click on yes when asked if sure to cancel the booking|The booking will be cancelled and taken off of the my booking page|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/af3bcdde-4259-4fba-969b-94b0d75b51b8)
+
+</details>
+
 4. As a User, I can view the business hours and contact details to know how to reach them.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the contact us page and scroll down|The times the restaurant is open and the contact details|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/de283e46-5f64-4f1b-b552-b751c0b4075c)
+
+</details>
+
 5. As a User, I can book a table by selecting an available date and time.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the book link in the nav bar and fill out the information such as date and time|Nav bar works as expected and the booking will be created correctly|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/87fce337-e440-4354-aae1-f7d2d4202153)
+
+</details>
 
 6. As a User, I can navigate the website easily.
 
@@ -499,17 +535,50 @@ The ContactUs Model contains the following:
 |Click on the Logout page in the nav bar|The logout page will load|Works as expected|
 
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a15eccc9-ea74-4485-8285-2bad41fc272c)
+![image](https://github.com/user-attachments/assets/3b9b07a7-f03f-457c-b7e2-1b691156b5bd)
+![image](https://github.com/user-attachments/assets/dfe65780-74d4-49f0-b8e1-6648155f4605)
+![image](https://github.com/user-attachments/assets/6e26c9dc-0447-454e-b6b2-6b45bcf40cc0)
+![image](https://github.com/user-attachments/assets/5b8f419c-c7d9-4d6c-ad07-94110afbcec7)
+![image](https://github.com/user-attachments/assets/657a3e80-e3e2-406b-8527-7e373ccab795)
+![image](https://github.com/user-attachments/assets/4ac1abde-8878-4e11-a4e9-fbe793e7dff8)
+![image](https://github.com/user-attachments/assets/f1f30515-6648-44d8-adcd-bcae7413fce1)
+![image](https://github.com/user-attachments/assets/7e3f845a-4437-43ec-924b-77a977d45778)
+![image](https://github.com/user-attachments/assets/66153551-f70f-41da-a21f-b8c1ac0f40ca)
+![image](https://github.com/user-attachments/assets/5f9c07a2-177c-48cd-a7d6-f2ae61e39dcf)
+![image](https://github.com/user-attachments/assets/d2d77c76-667d-4969-b3c1-e8ee710c4dbb)
+
+</details>
+
+
 7. As a User, I can sign in to access booking features and manage my reservations.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the login link in the nav bar and login with a registered account|If the user has created an account the login will work|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/5cd0e227-f328-4a8b-b94f-c0715661f6b2)
+
+</details>
+
 8. As a User, I can check if I am logged in to know whether I can make a reservation or manage an existing one.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the login link in the nav bar, and login|If logged in the login and register button will disapper and the logout button will appear|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/0c6993d3-c0ed-4fb2-a3a1-16a7c3266a3a)
+
+</details>
 
 9. As a User, I can browse the food and drink menu to decide what I want before booking a table.
    
@@ -518,11 +587,28 @@ The ContactUs Model contains the following:
 |Click on the menus link in the nav bar anmd select the food menu|Food Menu will load|Works as expected|
 |Click on the menus link in the nav bar and select the drinks menu|Drinks Menu will load|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/add658a4-2fbd-41f8-b0ac-b99eb8ff989d)
+![image](https://github.com/user-attachments/assets/c43e089e-cdbd-4a8f-a3f7-9f0d9dbe7156)
+![image](https://github.com/user-attachments/assets/bd215f0e-a6bd-4d2d-bdab-19ea4eebaf0e)
+
+</details>
+
 10. As a User, I can update my booking to select a new available time if my plans change.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the my bookings link in the nav bar and click the edit button|The edit booking page will open and the user can edit their times or date|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/453a018d-b37b-43ee-ae3e-9692da0d2fe9)
+![image](https://github.com/user-attachments/assets/c97413aa-8292-4309-9944-7da8562ec921)
+
+</details>
 
 11. As a User, I can not book a past date to ensure that my reservation is valid.
 
@@ -530,16 +616,39 @@ The ContactUs Model contains the following:
 |---|---|---|
 |Create a booking and attempt to put the date before the present day|A message will appear telling the user this is an invalid day|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/bf2aa746-0a35-4d3f-8b7f-5deed4a69cad)
+
+</details>
+
 12. As a User, I can not select a time slot that has already been booked to avoid double bookings.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Create a booking with a time and date, then attempt to create another one|An error will pop up letting the user know that they have already booked for this date and time|Works as expected
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/64563e98-a22d-4b5f-af17-9abc3d87e533)
+![image](https://github.com/user-attachments/assets/486f0173-9acd-41bc-8b96-dfcd262326d3)
+
+</details>
+
 13. As a User, I can receive notifications to confirm whether my booking action was successful.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
+|Complete a booking adn the confirmed booking page will load|The confirmed booking page will load and a pop up will appear confirming the booking|All working as intended|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/c9bba20f-5730-4f72-b8ec-e633d8420ece)
+
+</details>
 
 14. As a User, I can access the site’s blog to read helpful articles and updates.
 
@@ -547,11 +656,25 @@ The ContactUs Model contains the following:
 |---|---|---|
 |Click on the blog link in the nav bar|The blogs page will load|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a7d216f8-94e3-4b35-adb2-d14fa0017789)
+
+</details>
+
 15. As a User, I can view blog posts in a paginated format to make browsing easier.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the blog link in the nav bar|The blogs page will load|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/5fd5e50a-0082-4efa-aee6-1e01ce3b470f)
+
+</details>
 
 16. As an Admin, I can log in to manage the back end of the site.
 
@@ -559,11 +682,27 @@ The ContactUs Model contains the following:
 |---|---|---|
 |Visit the admin page at https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/|Enter the admin credentials and gain access to the backend|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/6e36d4a4-1ad6-4a7b-907e-2a0b405c700c)
+
+</details>
+
 17. As an Admin, I can create, update, and delete items from the food and drink menu to keep our offerings current.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |In the admin page, click on food or drink items and click add item|The admin can create a new food or drink item|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/6287ea3d-6de7-4498-bf7f-da8aeff9cadd)
+![image](https://github.com/user-attachments/assets/ca5f9b82-ae59-4a0e-a13c-892e9754a2bc)
+
+
+</details>
 
 18. As an Admin, I can manually add bookings for customers who call or email the business.
 
@@ -571,26 +710,51 @@ The ContactUs Model contains the following:
 |---|---|---|
 |In the admin page, click on Booking tab and click create booking|The admin can create a new booking for a user with a time date and table|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/b9a9824d-62e6-4e9f-90ad-3eb7edb9b2bb)
+![image](https://github.com/user-attachments/assets/ec4f3dd0-9fac-4ab9-826e-de34e27e57ae)
+
+
+</details>
+
 19. As a Site Owner, I can ensure the site is fully responsive to provide a seamless experience for customers.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Go to the developer tools in google chrome and swap the dimentions to responsive, shrink the screen size and see if all elements are responsive|The webpage will be responsive|Works as expected|
-|Test Screen Size: 200px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 400px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 600px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 800px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 1000px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 1200px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 1400px|All elements and webpages are responsive|Works as expected|
-|Test Screen Size: 1600px|All elements and webpages are responsive|Works as expected|
-|Test Screen Size: 1800px|All elements and webpages are responsive|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/11a19498-2933-4751-9232-9e047892973a)
+![image](https://github.com/user-attachments/assets/486f5684-7bd3-4b88-89cc-966b7f2166ac)
+![image](https://github.com/user-attachments/assets/d4346fb1-4496-451c-9ff1-bf689128cfb0)
+![image](https://github.com/user-attachments/assets/664b2f57-264e-4994-8fb6-9e9c54343794)
+![image](https://github.com/user-attachments/assets/c2a011ab-76cd-4a5b-9d11-c05941d4228f)
+![image](https://github.com/user-attachments/assets/d60ccb46-5b2a-4fbc-a48a-8c2350a58c73)
+
+</details>
 
 20. As an Admin, I can filter bookings by date to easily see reservations for any given day.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Go to the admin page: https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/ and click on booking, in the right there is a filter|The filter allows the admins to filter by date|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/8eefc1ed-cc22-45f5-b618-24b1664b9ce3)
+
+</details>
 
 21. As an Admin, I can validate data entered on the site to ensure accuracy and prevent errors.
 
@@ -601,11 +765,27 @@ The ContactUs Model contains the following:
 |From the booking page enter a date that is before the current day|Error message will appear|Works as expected|
 |From the booking page leave the phone number blank|Error message will appear|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/2ef51aa5-0c2e-4e1b-b155-e66b52604475)
+![image](https://github.com/user-attachments/assets/6bd1dd3b-a30a-4b8c-bc64-7844c9d9807f)
+![image](https://github.com/user-attachments/assets/465fc757-7121-4124-976e-24767b7bb87a)
+
+</details>
+
 22. As an Admin, I can accept or reject bookings to avoid overbooking or double bookings.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Go to the booking tab on the admin page, access a booking and change the status|The admin can reject or confirm a booking|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a69c7845-420f-4f20-992e-1cee3ffe345c)
+
+</details>
 
 23. As an Admin, I can search through bookings and menus to quickly find the information I need.
 
@@ -614,17 +794,40 @@ The ContactUs Model contains the following:
 |Go to the booking tab on the admin page, there are filter to let the admins access information quickly|The admin can filter the bookings|Works as expected|
 |Go to the Food items or drink items tab on the admin page, there are filter and a seach bar to let the admins access information quickly|The admin can filter the bookings|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/7b965af4-e515-450a-b414-20a875140cb8)
+![image](https://github.com/user-attachments/assets/db7b6a5e-9839-499c-acf9-473572d7061d)
+
+</details>
+
 24. As an Admin, I can log in to manage and update the site’s backend features.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Access the admin page at https://cl-pp4-the-wave-76e93eea9754.herokuapp.com/admin/ and enter the admin credentials|The admin can login to access the sites backend|Works as expected|
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/6e36d4a4-1ad6-4a7b-907e-2a0b405c700c)
+
+</details>
+
 25. As an Admin, I can add or remove food and drink items from the menu to update what is available.
 
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Go to the food or drinks items tabs on the admin page, click on an item|There is a button the admins can toggle to say if an item is available or not|Works as expected|
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/1d7fd92c-aafc-4d06-9ba9-5f042fabdf2d)
+![image](https://github.com/user-attachments/assets/79ffb97b-d192-4db0-a8ab-53af4f349c72)
+
+</details>
 
 ## Bugs
 
