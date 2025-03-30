@@ -10,10 +10,49 @@ Developer - Lewis Bull
 
 ## Table of Content
 
+1. [About](#About)
+2. [Project Goals](#Project-Goals)
+    - [User Goals](#User-Goals)
+    - [Site Owner Goals](#Site-Owner-Goals)
+3. [User Experience](#User-Experience)
+    - [Target Audience](#Target-Audience)
+    - [User Requirements and Expectations](#User-Requirements-and-Expectations)
+4. [User Stories](#User-Stories)
+    - [Users](#Users)
+    - [Site Owner](#Site-Owner)
+5. [Design](#Design)
+    - [Fonts](#Fonts)
+6. [Structure](#Structure)
+    - [Pages](#Pages)
+    - [WireFrames](#Wireframes)
+7. [Database](#Database)
+8. [Technologies Used](#Technologies-Used)
+    - [Languages](#Languages)
+    - [Frameworks and Tools](#Frameworks-and-Tools)
+9. [Features](#Features)
+10. [Testing](#Testing)
+     - [Manual Testing](#Manual-Testing)
+11. [Testing Across Different Devices and Browsers](#Testing-Across-Different-Devices-and-Browsers)
+    - [Devices](#Devices)
+    - [Browser Compatibility Tests](#Browser-Compatibility-Tests)
+    - [Testing Overview](#Testing-Overview)
+12. [Bugs](#Bugs)
+13. [Validation](#Validation)
+14. [Deployment](#Deployment)
+     - [Heroku Deployment](#Heroku-Deployment)
+     - [Heroku Postgres])(#Heroku-Postgres)
+15. [Credits](#Credits)
+     - [Images](#Images)
+     - [Code](#Code)
+16. [Acknowledgements](#Acknowledgements)
+
+
 ## About
 The Wave is a fictitious business based around high end seafood dining, the style was chosen to imitate Michelin star seafood restaurants. Users can book a table, view the extensive food and drinks menu, read a blog posted by the website admins, and create an account to see their bookings and add comments on to blog posts
 
-## User Goals
+## Project Goals
+
+### User Goals
 
  - To be able to book a table
  - To be able to view my bookings
@@ -22,7 +61,7 @@ The Wave is a fictitious business based around high end seafood dining, the styl
  - To be able to view the blog posts
  - To be able to contact the restaurant from the website
 
-## Site Owner Goals
+### Site Owner Goals
  - To have a place where customers can book tables
  - To attract more business via the website
  - To allow users to use the wesbite on all devices
@@ -67,7 +106,7 @@ The Wave is a fictitious business based around high end seafood dining, the styl
 14. As a User, I can access the site’s blog to read helpful articles and updates.
 15. As a User, I can view blog posts in a paginated format to make browsing easier.
 
-### Site Owner / Admin / Authorised User
+### Site Owner
 
 16. As an Admin, I can log in to manage the back end of the site.
 17. As an Admin, I can create, update, and delete items from the food and drink menu to keep our offerings current.
@@ -97,9 +136,9 @@ The colors I chose were from different forums such as Stack Overflow to see blac
 
 I chose to use Montserrat font from [Google Fonts](https://fonts.google.com/specimen/Montserrat) as it is a common font used by businesses and looks professional.
 
-### Structure
+## Structure
 
-#### Pages
+### Pages
 
 The site was designed based off of other common layouts for websites, for example the navigation bar is along the top of the page and a hamburger menu will appear on smaller screens.
 The Footer has all of my social media links so that the user can visit any of my social medias if they wish.
@@ -278,7 +317,6 @@ The ContactUs Model contains the following:
 - email (ForeignKey)
 - phone (ForeignKey)
 - body
-
 
 ## Technologies Used
 
@@ -909,6 +947,32 @@ The ContactUs Model contains the following:
 
 </details>
 
+## Testing Across Different Devices and Browsers
+
+### Devices
+
+I have tested the wave website across the below devices
+
+- iPhone 13 (Physical)
+- PC/Desktop (Physical)
+- Samsung Galaxy Tab A8 (Simulated)
+- Surface Pro 7 (Simulated)
+- ASUS Zenbook Fold (Simulated)
+
+### Browser Compatibility Tests
+The following browsers were tested for compatibility; all browsers were fully compatible:
+
+- Google Chrome (Fully Compatible)
+- Microsoft Edge (Fully Compatible)
+- Opera GX (Fully Compatible)
+- Firefox (Fully Compatible)
+
+### Testing Overview
+
+I tested that this page works in different browsers: Edge, Firefox, Chrome, Safari, and Opera GX.
+
+Additionally I tested this website across all different devices and all works perfectly
+
 ## Bugs
 
 |Bugs|Fix|
@@ -1300,7 +1364,9 @@ PEP8 Validation service was used to check the python code to ensure that it was 
 
 </details>
 
-## Heroku Deployment
+## Deployment
+
+### Heroku Deployment
 
 This application has been deployed from Github using Heroku. Here's how:
 
@@ -1308,7 +1374,7 @@ This application has been deployed from Github using Heroku. Here's how:
 2. Create an app, give it a name for such as ci-pp4-the-wave, and select a region
 3. Under resources search for postgres, and add a Postgres database to the app
 
-## Heroku Postgres
+### Heroku Postgres
 
 1. Note the DATABASE_URL, this can be set as an environment variable in Heroku and your local deployment(env.py)
 2. Install the plugins dj-database-url and psycopg2-binary.
@@ -1329,14 +1395,14 @@ This application has been deployed from Github using Heroku. Here's how:
 17. Click on the link provided to access the application
 18. If you encounter any issues accessing the build logs is a good way to troubleshoot the issue
 
-## Forking the Repository
+### Forking the Repository
 
 To fork the repository by following these steps:
 
 1. Go to the GitHub repository
 2. Click on Fork button in upper right hand corner
 
-## Clone Repository
+### Clone Repository
 You can clone the repository by following these steps:
 
 1. Go to the GitHub repository
@@ -1353,6 +1419,8 @@ Images were all AI Generated using the Dalle AI image generator with permission 
 
 ### Code
 Bootstrap dark navigation theme was used alongside boostrap classes and carousel
+
+Thank you to Aaron B for help with the file set up and styles set up
 
 ## Acknowledgements
 
