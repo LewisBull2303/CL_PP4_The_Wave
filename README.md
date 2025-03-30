@@ -1,4 +1,4 @@
-# The Wave | High-End Seafood with a view
+![image](https://github.com/user-attachments/assets/46defadf-f6a7-45b4-86c5-0a46d1cb51c7)# The Wave | High-End Seafood with a view
 
 ![image](https://github.com/user-attachments/assets/20fa747d-653c-47a9-b849-ea847c23a97a)
 
@@ -112,6 +112,70 @@ The Site has the following pages:
  - **The contact page** allows registered users to send a direct message. Alternatively, users can reach out via the provided email, phone number, or physical address.
  - **The login/logout page** functionality allows users to sign in to make, view, edit, and cancel bookings.
  - **The registration page** enables new users to sign up and access the booking system.
+
+## Wireframes
+<details>
+ <summary>Home Page</summary>
+
+![image](https://github.com/user-attachments/assets/28347b2c-a819-46d3-836f-e35789e09baa)
+
+</details>
+
+<details>
+ <summary>Food Menu</summary>
+
+![image](https://github.com/user-attachments/assets/c2961be3-7f9c-49fd-a37c-7ccc13d0c75c)
+
+</details>
+
+<details>
+ <summary>Drink Menu</summary>
+
+![image](https://github.com/user-attachments/assets/307f5738-a167-42c8-a68a-7d3f7cbe2704)
+
+</details>
+
+<details>
+ <summary>Blog Page</summary>
+
+![image](https://github.com/user-attachments/assets/fdf9903a-aab9-4167-b08a-855d0a873759)
+
+</details>
+
+<details>
+ <summary>Book Page</summary>
+
+![image](https://github.com/user-attachments/assets/8831072a-3f35-411c-bea0-0cb792c631b8)
+
+</details>
+
+<details>
+ <summary>Contact Page</summary>
+
+![image](https://github.com/user-attachments/assets/d7046e36-aeef-4b78-ab1d-d3880c611ec3)
+
+</details>
+
+<details>
+ <summary>My Bookings Page</summary>
+
+![image](https://github.com/user-attachments/assets/52a9bea2-50c6-4803-ada4-99eb520ee39e)
+
+</details>
+
+<details>
+ <summary>Register Page</summary>
+
+![image](https://github.com/user-attachments/assets/464942fc-b5d1-4897-ad03-01d6f0bdd483)
+
+</details>
+
+<details>
+ <summary>Login Page</summary>
+
+![image](https://github.com/user-attachments/assets/553aaddd-b8ce-4ef8-9310-bd5d1fab5d88)
+
+</details>
 
 ## Database
 The Project was built with Python and the Django framework with a database of a Postgres for the deployed Heroku version(production)
