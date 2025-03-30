@@ -1,4 +1,4 @@
-# The Wave | High-End Seafood with a view
+![image](https://github.com/user-attachments/assets/b938033f-ee6d-498f-8335-baa43fe7497e)# The Wave | High-End Seafood with a view
 
 ![image](https://github.com/user-attachments/assets/20fa747d-653c-47a9-b849-ea847c23a97a)
 
@@ -239,10 +239,24 @@ The ContactUs Model contains the following:
 
 - My home page includes a navigation bar, the main body which has a carosel with 3 images, cards to click on for the user to be taken to the booking page, food menu and drinks menu, and a footer with my social medias
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/494dcb30-6c68-4ee2-863e-295adc5bd1ce)
+
+</details>
+
 ### Logo
 
 - Custom Logo for my business
 - Fully responsive
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/f6703cce-cdd7-481d-9724-2182cbd253f4)
+
+</details>
 
 ### Navigation Bar
 
@@ -252,11 +266,25 @@ The ContactUs Model contains the following:
 - Hides the register/Login page if the user is logged in already
 - Displayed Across all of my pages
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/fb14ddc5-94ff-4850-9b22-dbcad56ed687)
+
+</details>
+
 ### Footer
 
 - Contains all of my social medias as buttons
 - Fully responsive
 - Displayed across all of my pages
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a4ef31cb-fba3-4281-bd19-70cc533cc075)
+
+</details>
 
 ### Register Page
 
@@ -264,10 +292,24 @@ The ContactUs Model contains the following:
 - Username and password are required for the user to add but the email is optional as indicated by the asterisks (*)
 - Fully Responsive
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/09237879-8799-49d2-b190-ba1e7ad5ceec)
+
+</details>
+
 ### Login Page
 
 - Users can login to their account on this page
 - The username and password need to match to an account on the database
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/ea9bc752-27b5-4458-8611-daa298b6cd29)
+
+</details>
 
 ### Booking Page
 
@@ -277,21 +319,49 @@ The ContactUs Model contains the following:
 - Messages are displayed if the data is not valid
 - Users cannot book before the present day
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a8ed25dc-84c8-4d72-b746-b14df1d2ba92)
+
+</details>
+
 ### My Bookings Page
 
 - Allows the user to see all of their bookings in a clear layout
 - If any bookings are before the present day the booking will automatically disappear
 - Status for the booking is displayed to let the user know where their booking is at
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/c9257d5f-f12a-47ee-95a6-10336e10e866)
+
+</details>
+
 ### Edit Booking Page
 
 - Allows the user to edit their bookings
 - The User can edit the name, time and date, email, type of table and phone number
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a7bc4abe-d710-49b9-a24f-5a7daba12b5a)
+
+</details>
+
 ### Cancel Booking Page
 
 - Allows the user to cancel their booking if they wish
 - When Clicked it will ask the user if they are sure that they would like to cancel
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/1f10cf3e-0b0c-4e6d-a5da-e81e82409af7)
+
+</details>
 
 ### Food Menu Page
 
@@ -299,11 +369,29 @@ The ContactUs Model contains the following:
 - Menu is seperated by starters, mains and desserts
 - Items are created on the admin panel, the items need a title, description and a price
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/e10904c8-8c0a-401b-9a43-b7cdd92832f1)
+![image](https://github.com/user-attachments/assets/7703c867-9a3e-4dd8-90c3-c522f2bcc7a1)
+![image](https://github.com/user-attachments/assets/683f63f7-6e6d-4dda-a71c-905e6c0ab3e5)
+
+</details>
+
 ### Drinks Menu Page
 
 - Allows the user to see all of the drinks that are available on the menu
 - Menu is seperated by Wines, Beers and Cocktails
 - Items are created on the admin panel, the items need a title, description and a price
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/83429d8c-c8a4-41cb-ad31-c0d74cfd96ff)
+![image](https://github.com/user-attachments/assets/d0ef7477-e512-4bc0-93d6-58130966ff0f)
+![image](https://github.com/user-attachments/assets/6b6c3cd9-3160-4300-94b3-f1bb83f557a5)
+
+</details>
 
 ### Blog Page
 
@@ -311,22 +399,52 @@ The ContactUs Model contains the following:
 - The page can display 4 posts per page
 - The user can click on each title to open the blog details
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/14cdf61d-4030-4f77-ab48-1a95f2d0a219)
+
+</details>
+
 ### Blog Details Page
 
 - When clicked opens the blog details
 - Expands with the image at the top and a description/details of the post underneath
 - Registered users only can comment on the blog
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/fc3a2e07-023a-4b3e-a123-62924c4d9508)
+![image](https://github.com/user-attachments/assets/e46167c2-4133-43cb-95a7-b04a5cf32bce)
+
+</details>
+
 ### Blog Comments
 
 - Comments made are set to a pending status to ensure that the admins have control over what is displayed
 - Staff are able to approve or remove comments on the admin panel
 
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/43662d74-9243-48c5-972b-aaf31812835a)
+
+</details>
+
 ### Contact Us Page
 
 - Users can send a message to the staff from the message box
 - The message has a name, phone number and email of the user submitting the message
-- Underneath the contact page there is a google maps embedded with the address 
+- At the bottom there is the address for the business
+
+<details>
+ <summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/da634579-9d0d-4746-bf6c-50f791c3237d)
+![image](https://github.com/user-attachments/assets/a978bd38-9ef3-437f-b75f-0b8aca03350c)
+
+</details>
 
 ## Testing
 
