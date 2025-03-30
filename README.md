@@ -806,6 +806,88 @@ PEP8 Validation service was used to check the python code to ensure that it was 
 
 </details>
 
+## Lighthouse
+
+### Desktop
+
+<details>
+ <summary>Home Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Blog Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Blog Details Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Register Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Login Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Logout Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Food Menu Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Drink Menu Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Booking Page</summary>
+
+
+</details>
+
+<details>
+ <summary>My Bookings Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Edit Booking Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Cancel Booking Page</summary>
+
+
+</details>
+
+<details>
+ <summary>Contact us Page</summary>
+
+
+</details>
+
 ## Heroku Deployment
 
 This application has been deployed from Github using Heroku. Here's how:
