@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12bd2e35-0353-4e3e-8e55-f48f6f994b56)# The Wave | High-End Seafood with a view
+# The Wave | High-End Seafood with a view
 
 ![image](https://github.com/user-attachments/assets/20fa747d-653c-47a9-b849-ea847c23a97a)
 
