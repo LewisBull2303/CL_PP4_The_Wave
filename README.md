@@ -8,6 +8,8 @@ Developer - Lewis Bull
 
 (Cntrl + Click to open in a new tab)
 
+## Table of Content
+
 ## About
 The Wave is a fictitious business based around high end seafood dining, the style was chosen to imitate Michelin star seafood restaurants. Users can book a table, view the extensive food and drinks menu, read a blog posted by the website admins, and create an account to see their bookings and add comments on to blog posts
 
