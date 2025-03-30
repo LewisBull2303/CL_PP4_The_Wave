@@ -895,7 +895,7 @@ PEP8 Validation service was used to check the python code to ensure that it was 
 <details>
  <summary>Contact us Page</summary>
 
-
+![image](https://github.com/user-attachments/assets/bbddac4f-5925-4fed-a64f-e59cfe42d3d0)
 
 </details>
 
