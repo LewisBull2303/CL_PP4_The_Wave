@@ -180,10 +180,12 @@ The Site has the following pages:
 ## Database
 The Project was built with Python and the Django framework with a database of a Postgres for the deployed Heroku version(production)
 
-Diagram of the database(Made in google sheets)
+<details>
+ <summary>Diagram of the database(Made in google sheets)</summary>
 
 ![image](https://github.com/user-attachments/assets/82057aab-5ca6-44e6-829b-9edeeef50416)
 
+</details>
 
 ### User Model
 The User Model contains the following:
