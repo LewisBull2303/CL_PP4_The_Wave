@@ -9,7 +9,7 @@ Developer - Lewis Bull
 (Cntrl + Click to open in a new tab)
 
 ## About
-The Wave is a fictisious buissiness beased around high end seafood dining, the style was chose to imitate michilen star seafood restaurants. Users can book a table, view the extensive food and drinks menu, read a blog posted by the website admins, and creadt an account to see their bookings and add comments on to blog posts
+The Wave is a fictitious business based around high end seafood dining, the style was chosen to imitate Michelin star seafood restaurants. Users can book a table, view the extensive food and drinks menu, read a blog posted by the website admins, and create an account to see their bookings and add comments on to blog posts
 
 ## User Goals
 
@@ -18,22 +18,22 @@ The Wave is a fictisious buissiness beased around high end seafood dining, the s
  - To be able to cancel/edit my bookings
  - To be able to view the menus
  - To be able to view the blog posts
- - To be able to contact the restaraunt from the website
+ - To be able to contact the restaurant from the website
 
 ## Site Owner Goals
  - To have a place where customers can book tables
  - To attract more business via the website
  - To allow users to use the wesbite on all devices
- - To have a recogniseable business brand
+ - To have a recognizable business brand
 
 ## User Experience
 
 ### Target Audience
 
- - Users that wish to dine at a high end restaurent
+ - Users that wish to dine at a high end restaurant
  - Users that enjoy seafood
  - Wealthy individuals
- - Couples on anniversarys/Birthday dinners
+ - Couples on anniversaries/Birthday dinners
  - Past customers of the business
 
 ### User Requirements and Expectations
@@ -80,9 +80,9 @@ The Wave is a fictisious buissiness beased around high end seafood dining, the s
 
 ## Design
 
-I chose light colors to relate to the area of the restaurant and the feel of the restaurant. This is because the restauratnt is an outside restaurant and is on the seafront and therefore would be bright and clear.
+I chose light colors to relate to the area of the restaurant and the feel of the restaurant. This is because the restaurant is an outside restaurant and is on the seafront and therefore would be bright and clear.
 
-The colors I chose were from different forumsn such as Stack Overflow to see black, white and grey colors that were not to sharp for the website
+The colors I chose were from different forums such as Stack Overflow to see black, white and grey colors that were not to sharp for the website
 
 <details>
  <summary>Color Palette</summary>
@@ -93,7 +93,7 @@ The colors I chose were from different forumsn such as Stack Overflow to see bla
 
 ### Fonts
 
-I chose to use Monterrat font from [Google Fonts](https://fonts.google.com/specimen/Montserrat) as it is a common font used by businesses and looks proffessional
+I chose to use Montserrat font from [Google Fonts](https://fonts.google.com/specimen/Montserrat) as it is a common font used by businesses and looks professional.
 
 ### Structure
 
@@ -181,10 +181,10 @@ The Site has the following pages:
 </details>
 
 ## Database
-The Project was built with Python and the Django framework with a database of a Postgres for the deployed Heroku version(production)
+The Project was built with Python and the Django framework with a database of a PostgreSQL for the deployed Heroku version (production) 
 
 <details>
- <summary>Diagram of the database(Made in google sheets)</summary>
+ <summary>Diagram of the database(Made in Google Sheets)</summary>
 
 ![image](https://github.com/user-attachments/assets/82057aab-5ca6-44e6-829b-9edeeef50416)
 
@@ -315,7 +315,7 @@ The ContactUs Model contains the following:
 
 ### Home Page
 
-- My home page includes a navigation bar, the main body which has a carosel with 3 images, cards to click on for the user to be taken to the booking page, food menu and drinks menu, and a footer with my social medias
+- My home page includes a navigation bar, the main body which has a carousel with 3 images, cards to click on for the user to be taken to the booking page, food menu and drinks menu, and a footer with my social medias
 
 <details>
  <summary>Images</summary>
@@ -338,7 +338,7 @@ The ContactUs Model contains the following:
 
 ### Navigation Bar
 
-- Fullt Responsive NavBar
+- Fully Responsive NavBar
 - Has a Custom Logo on the left
 - On smaller screens it switches to a hamburger menu
 - Hides the register/Login page if the user is logged in already
@@ -366,7 +366,7 @@ The ContactUs Model contains the following:
 
 ### Register Page
 
-- Allowes users to register a new account
+- Allows users to register a new account
 - Username and password are required for the user to add but the email is optional as indicated by the asterisks (*)
 - Fully Responsive
 
@@ -392,7 +392,7 @@ The ContactUs Model contains the following:
 ### Booking Page
 
 - Users can book a table using the online booking form
-- The form takes in the users name, phone number, email, guest count, the table they would like, the date and the time that they would like
+- The form takes in the user's name, phone number, email, guest count, the table they would like, the date and the time that they would like
 - Users cannot double book at the same time
 - Messages are displayed if the data is not valid
 - Users cannot book before the present day
@@ -420,7 +420,7 @@ The ContactUs Model contains the following:
 ### Edit Booking Page
 
 - Allows the user to edit their bookings
-- The User can edit the name, time and date, email, type of table and phone number
+- The user can edit the name, time and date, email, type of table and phone number
 
 <details>
  <summary>Images</summary>
@@ -444,7 +444,7 @@ The ContactUs Model contains the following:
 ### Food Menu Page
 
 - Allows the user to see all of the food that is available on the menu
-- Menu is seperated by starters, mains and desserts
+- Menu is separated by starters, mains and desserts
 - Items are created on the admin panel, the items need a title, description and a price
 
 <details>
@@ -459,7 +459,7 @@ The ContactUs Model contains the following:
 ### Drinks Menu Page
 
 - Allows the user to see all of the drinks that are available on the menu
-- Menu is seperated by Wines, Beers and Cocktails
+- Menu is separated by Wines, Beers and Cocktails
 - Items are created on the admin panel, the items need a title, description and a price
 
 <details>
@@ -601,7 +601,7 @@ The ContactUs Model contains the following:
 |Step|Expected Outcome|Result|
 |---|---|---|
 |Click on the home link in the nav bar|The homepage will load|Works as expected|
-|Click on the menus link in the nav bar anmd select the food menu|Food Menu will load|Works as expected|
+|Click on the menus link in the nav bar and select the food menu|Food Menu will load|Works as expected|
 |Click on the menus link in the nav bar and select the drinks menu|Drinks Menu will load|Works as expected|
 |Click on the blog link in the nav bar|The blogs page will load|Works as expected|
 |Click on a blog post on the blog page|The blog details page will load|Works as expected|
@@ -649,7 +649,7 @@ The ContactUs Model contains the following:
 
 |Step|Expected Outcome|Result|
 |---|---|---|
-|Click on the login link in the nav bar, and login|If logged in the login and register button will disapper and the logout button will appear|Works as expected|
+|Click on the login link in the nav bar, and login|If logged in the login and register button will disappear and the logout button will appear|Works as expected|
 
 <details>
  <summary>Images</summary>
@@ -662,7 +662,7 @@ The ContactUs Model contains the following:
    
 |Step|Expected Outcome|Result|
 |---|---|---|
-|Click on the menus link in the nav bar anmd select the food menu|Food Menu will load|Works as expected|
+|Click on the menus link in the nav bar and select the food menu|Food Menu will load|Works as expected|
 |Click on the menus link in the nav bar and select the drinks menu|Drinks Menu will load|Works as expected|
 
 <details>
@@ -719,7 +719,7 @@ The ContactUs Model contains the following:
 
 |Step|Expected Outcome|Result|
 |---|---|---|
-|Complete a booking adn the confirmed booking page will load|The confirmed booking page will load and a pop up will appear confirming the booking|All working as intended|
+|Complete a booking and the confirmed booking page will load|The confirmed booking page will load and a pop up will appear confirming the booking|All working as intended|
 
 <details>
  <summary>Images</summary>
@@ -801,7 +801,7 @@ The ContactUs Model contains the following:
 
 |Step|Expected Outcome|Result|
 |---|---|---|
-|Go to the developer tools in google chrome and swap the dimentions to responsive, shrink the screen size and see if all elements are responsive|The webpage will be responsive|Works as expected|
+|Go to the developer tools in google chrome and swap the dimensions to responsive, shrink the screen size and see if all elements are responsive|The webpage will be responsive|Works as expected|
 |Test Screen Size: 400px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 600px|All elements and webpages are responsive|Works as expected|
 |Test Screen Size: 800px|All elements and webpages are responsive|Works as expected|
@@ -869,8 +869,8 @@ The ContactUs Model contains the following:
 
 |Step|Expected Outcome|Result|
 |---|---|---|
-|Go to the booking tab on the admin page, there are filter to let the admins access information quickly|The admin can filter the bookings|Works as expected|
-|Go to the Food items or drink items tab on the admin page, there are filter and a seach bar to let the admins access information quickly|The admin can filter the bookings|Works as expected|
+|Go to the booking tab on the admin page, there are filters to let the admins access information quickly|The admin can filter the bookings|Works as expected|
+|Go to the Food items or drink items tab on the admin page, there are filters and a search bar to let the admins access information quickly|The admin can filter the bookings|Works as expected|
 
 <details>
  <summary>Images</summary>
@@ -912,10 +912,10 @@ The ContactUs Model contains the following:
 |Bugs|Fix|
 |---|---|
 |Edit booking page not working correctly|Incorrectly named the edit booking name|
-|The blog details page would not load correctly|Incorrectly named the file so it was going me a 404 error|
+|The blog details page would not load correctly|Incorrectly named the file so it was giving me a 404 error|
 |The styles would not load correctly|The styles were not correctly added to the base.html|
-|While logged in the register and login button would not disappear|Mispelled the if_authenticated so I corrected the spelling and all worked fine|
-|Hamburger menu not appearing when the screen size is smaller|Incorrectly spelt the hamburger menu UNICODE|
+|While logged in the register and login button would not disappear|Misspelled the is_authenticated so I corrected the spelling and all worked fine|
+|Hamburger menu not appearing when the screen size is smaller|Incorrectly spelled the hamburger menu UNICODE|
 
 ## Validation
 
@@ -1312,7 +1312,7 @@ This application has been deployed from Github using Heroku. Here's how:
 2. Install the plugins dj-database-url and psycopg2-binary.
 3. Run pip3 freeze > requirements.txt so both are added to the requirements.txt file
 4. Create a Procfile with the text: web: gunicorn the_wave.wsgi
-5. In the settings.py ensure the connection is to the Heroku postgres database, no indentation if you are not using a seperate test database. I store mine in env.py
+5. In the settings.py ensure the connection is to the Heroku postgres database, no indentation if you are not using a separate test database. I store mine in env.py
 6. Ensure debug is set to false in the settings.py file
 7. Add localhost, and ci-pp4-the-wave.herokuapp.com to the ALLOWED_HOSTS variable in settings.py
 8. Run "python3 manage.py showmigrations" to check the status of the migrations
@@ -1339,7 +1339,7 @@ You can clone the repository by following these steps:
 
 1. Go to the GitHub repository
 2. Locate the Code button above the list of files and click it
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+3. Select if you prefer to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
@@ -1352,7 +1352,7 @@ Images were all AI Generated using the Dalle AI image generator with permission 
 ### Code
 Bootstrap dark navigation theme was used alongside boostrap classes and carousel
 
-## Acknowledgementsw
+## Acknowledgements
 
 First and foremost, I would like to give a special thank you to my wonderful girlfriend Jasmine, whose support has made managing a full-time job, Open University, and Code Institute submissions possible.
 
