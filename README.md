@@ -529,10 +529,10 @@ The following websites/tools were used to test the validation of my code:
 - Lighthouse
 - Wave Validator
 
-### W3C Markup Validationm
+### W3C Markup Validation
 
 <details>
- <summary>Home/summary>
+ <summary>Home</summary>
 
 ![image](https://github.com/user-attachments/assets/a8bb799c-4973-481c-924c-142d3e4cc8b0)
 
