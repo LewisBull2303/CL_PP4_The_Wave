@@ -84,9 +84,12 @@ I chose light colors to relate to the area of the restaurant and the feel of the
 
 The colors I chose were from different forumsn such as Stack Overflow to see black, white and grey colors that were not to sharp for the website
 
-Color Palette
+<details>
+ <summary>Color Palette</summary>
 
- - Image Here(Later)
+![image](https://github.com/user-attachments/assets/b61bb5d4-b9a8-4946-a2c5-bac38c083d90)
+
+</details>
 
 ### Fonts
 
