@@ -808,82 +808,93 @@ PEP8 Validation service was used to check the python code to ensure that it was 
 
 ## Lighthouse
 
-### Desktop
-
 <details>
  <summary>Home Page</summary>
 
+![image](https://github.com/user-attachments/assets/ef62600a-2200-4da3-a53b-1a5950ed1939)
 
 </details>
 
 <details>
  <summary>Blog Page</summary>
 
+![image](https://github.com/user-attachments/assets/01eedfd6-cdf2-49c3-b22f-ea7cb87cba04)
 
 </details>
 
 <details>
  <summary>Blog Details Page</summary>
 
+![image](https://github.com/user-attachments/assets/88f029ce-2d24-465d-b297-020aadef0c1f)
 
 </details>
 
 <details>
  <summary>Register Page</summary>
 
+![image](https://github.com/user-attachments/assets/7fa2eb76-0477-474e-8ad1-31b6f6810638)
 
 </details>
 
 <details>
  <summary>Login Page</summary>
 
+![image](https://github.com/user-attachments/assets/7bcbf131-7ecb-4daa-b026-9f7b6dbbbea3)
 
 </details>
 
 <details>
  <summary>Logout Page</summary>
 
+![image](https://github.com/user-attachments/assets/fbd048c6-8c45-4585-8076-6d757496003e)
 
 </details>
 
 <details>
  <summary>Food Menu Page</summary>
 
+![image](https://github.com/user-attachments/assets/1a149046-f694-4266-9cf3-e7c31b050b5c)
 
 </details>
 
 <details>
  <summary>Drink Menu Page</summary>
 
+![image](https://github.com/user-attachments/assets/186ea598-76ff-4c6d-8590-7781d382d6d8)
 
 </details>
 
 <details>
  <summary>Booking Page</summary>
 
+![image](https://github.com/user-attachments/assets/4b1f09e8-9fbe-4a81-aaea-128aa6e51fd7)
 
 </details>
 
 <details>
  <summary>My Bookings Page</summary>
 
+![image](https://github.com/user-attachments/assets/f347ee80-1053-44cb-bf2e-1516c38fc844)
 
 </details>
 
 <details>
  <summary>Edit Booking Page</summary>
 
+![image](https://github.com/user-attachments/assets/9823aa31-651a-4d1a-9b4e-a1f4bee18bbf)
 
 </details>
 
 <details>
  <summary>Cancel Booking Page</summary>
 
+![image](https://github.com/user-attachments/assets/38b226c3-3bd9-434f-b12f-223d9d4feec4)
 
 </details>
 
 <details>
  <summary>Contact us Page</summary>
+
 
 
 </details>
