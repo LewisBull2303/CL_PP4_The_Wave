@@ -231,7 +231,11 @@ The ContactUs Model contains the following:
 - Balsamiq
 - Favicon.io
 - Validation
-   - 
+   - WC3 Validator
+   - Jigsaw W3 Validator
+   - JShint
+   - Pycodestyle(PEP Validator)
+   - Lighthouse(Google Chrome)
 
 ## Features
 
@@ -1273,3 +1277,11 @@ Images were all AI Generated using the Dalle AI image generator with permission 
 
 ### Code
 Bootstrap dark navigation theme was used alongside boostrap classes and carousel
+
+## Acknowledgementsw
+
+First and foremost, I would like to give a special thank you to my wonderful girlfriend Jasmine, whose support has made managing a full-time job, Open University, and Code Institute submissions possible.
+
+Special thank you also to Mo Shami, My mentors, whose help and guidance has been truly invaluable to me.
+
+The live link to the repository is here : https://github.com/LewisBull2303/CL_PP4_The_Wave
