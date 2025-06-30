@@ -40,7 +40,7 @@ Developer - Lewis Bull
 13. [Validation](#Validation)
 14. [Deployment](#Deployment)
      - [Heroku Deployment](#Heroku-Deployment)
-     - [Heroku Postgres])(#Heroku-Postgres)
+     - [Heroku Postgres](#Heroku-Postgres)
 15. [Credits](#Credits)
      - [Images](#Images)
      - [Code](#Code)
